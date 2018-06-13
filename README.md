@@ -1,8 +1,8 @@
 # First-time-shell
-A simple shell scipt which I use when I log in to Debian OS for the very first time.
+A simple shell script which I use when I log in to Debian OS for the very first time.
 
 ## Why?
-In last three months I have installed debian thrice and now I am fed up of installing things one by one. 
+In last three months, I have installed debian thrice and now I am done installing things one by one, again and again. 
 
 ## How to run
 ```
@@ -20,4 +20,4 @@ If you don't have `sudo` try this first:
 ## Note
 The script is in its nascent stage and is not well scripted. I am still learning shell scripting, so will improve it in future.
 
-I will also add more commands as I remember them.
+I will soon add more commands.
